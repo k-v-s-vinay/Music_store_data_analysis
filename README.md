@@ -69,4 +69,4 @@ Relationships:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/music-store-analysis.git
+   git clone https://github.com/k-v-s-vinay/Music_store_data_analysis.git
